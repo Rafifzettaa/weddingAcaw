@@ -4,14 +4,14 @@ export const data = {
       id: 1,
       name: "Anggoro Catur Achmad Wicaksono",
       child: "Putra ke 4",
-      father: "Alm. Priyo Tri Bintoro",
+      father: "Priyo Tri Bintoro (Alm)",
       mother: "Sad Dini Budi Astuti",
       image: "./src/assets/images/cowo.png",
     },
     P: {
       id: 2,
       name: "Rika Purnama Sari",
-      child: "Putri ke 1",
+      child: "Putri ke 2",
       father: "Walim Suryaninto",
       mother: "Sumyati",
       image: "./src/assets/images/cewe.png",
@@ -41,7 +41,7 @@ export const data = {
         finish: "Selesai",
       },
     },
-    address: "Kp. Ciketing Rt001/001 Kel. sumur batu Kec.Bantar Gebang Bekasi",
+    address: "",
   },
 
   link: {
